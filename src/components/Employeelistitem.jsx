@@ -5,7 +5,6 @@ import data from "../models/data"
 function employeelistitem() {
   return (
     <div>
-    <img src="" />
     </div>
   )
 }
