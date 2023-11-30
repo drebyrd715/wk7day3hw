@@ -12,7 +12,7 @@ const info = [
         name: 'Julie Taylor', 
         title: 'VP of Marketing',
         phone: '923-938-4756',
-         email: 'JTaylor@gmail.com'
+        email: 'JTaylor@gmail.com'
     },
     {
         name: 'Eugene Lee', 

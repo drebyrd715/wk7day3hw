@@ -15,31 +15,7 @@ function Employeepage() {
         <h4>{data[0].phone}</h4>
         <h4>{data[0].email}</h4>
       </div>
-      {/* <div>
-        <h4>{data[1].name}</h4>
-        <h4>{data[1].phone}</h4>
-        <h4>{data[1].email}</h4>
-      </div>
-      <div>
-        <h4>{data[2].name}</h4>
-        <h4>{data[2].phone}</h4>
-        <h4>{data[2].email}</h4>
-      </div>
-      <div>
-        <h4>{data[3].name}</h4>
-        <h4>{data[3].phone}</h4>
-        <h4>{data[3].email}</h4>
-      </div>
-      <div>
-        <h4>{data[4].name}</h4>
-        <h4>{data[4].phone}</h4>
-        <h4>{data[4].email}</h4>
-      </div>
-      <div>
-        <h4>{data[5].name}</h4>
-        <h4>{data[5].phone}</h4>
-        <h4>{data[5].email}</h4>
-      </div> */}
+      
     </div>
   )
 }
